@@ -1,0 +1,21 @@
+body {
+	background-color: #C0FFA7;
+}
+
+h2, h1 {
+	text-align: center;
+}
+
+h1 {
+	color: #AF007D;
+}
+
+h2 {
+	color: #01B300;
+}
+
+.save-burger {
+	background-color: #FFC600;
+	color: #01B300;
+	height: 50px;
+}
